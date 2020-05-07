@@ -1,6 +1,6 @@
 function callMe() {
   var lyric = "maybe";
-  console.log(lyric);
+  return console.log(lyric);
 }
 
 
